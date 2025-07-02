@@ -1,4 +1,9 @@
-## Hi there 👋
+## my hope
+Everything is ready.
+
+I like to explore the unknown.
+
+
 
 <!--
 **Thi-nice/Thi-nice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
